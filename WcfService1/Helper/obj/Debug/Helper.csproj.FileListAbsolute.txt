@@ -1,7 +1,0 @@
-C:\Users\FUYU\Downloads\WcfService1\Helper\bin\Debug\Helper.dll
-C:\Users\FUYU\Downloads\WcfService1\Helper\bin\Debug\Helper.pdb
-C:\Users\FUYU\Downloads\WcfService1\Helper\bin\Debug\WcfService1.dll
-C:\Users\FUYU\Downloads\WcfService1\Helper\bin\Debug\WcfService1.pdb
-C:\Users\FUYU\Downloads\WcfService1\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
-C:\Users\FUYU\Downloads\WcfService1\Helper\obj\Debug\Helper.dll
-C:\Users\FUYU\Downloads\WcfService1\Helper\obj\Debug\Helper.pdb

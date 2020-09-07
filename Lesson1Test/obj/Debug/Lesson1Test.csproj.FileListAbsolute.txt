@@ -1,0 +1,5 @@
+D:\VS\lesson1\Lesson1Test\bin\Debug\Lesson1Test.exe.config
+D:\VS\lesson1\Lesson1Test\bin\Debug\Lesson1Test.exe
+D:\VS\lesson1\Lesson1Test\bin\Debug\Lesson1Test.pdb
+D:\VS\lesson1\Lesson1Test\obj\Debug\Lesson1Test.exe
+D:\VS\lesson1\Lesson1Test\obj\Debug\Lesson1Test.pdb
